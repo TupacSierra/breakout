@@ -1,5 +1,5 @@
 #include <sl.h>
-#include <iostream>
+
 
 using namespace std;
 
@@ -41,8 +41,7 @@ int main()
         ballX += ballSpeedX;
         ballY += ballSpeedY;
 
-        cout << "ballY :" << ballY  << endl;
-        cout << "paddleY:" << paddleY << endl;
+       
 
 
         if (ballX >= paddleX && ballX <= paddleX + paddleWidth  &&
