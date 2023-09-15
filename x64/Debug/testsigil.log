@@ -1,0 +1,18 @@
+﻿  SigilTest.cpp
+SigilTest.obj : error LNK2019: símbolo externo slWindow sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slClose sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slShouldClose sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slGetKey sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slRender sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slSetForeColor sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slLoadTexture sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slRectangleFill sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slLine sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slSprite sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slSetTextAlign sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slLoadFont sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slSetFont sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slSetFontSize sin resolver al que se hace referencia en la función main
+SigilTest.obj : error LNK2019: símbolo externo slText sin resolver al que se hace referencia en la función main
+lib\sigil.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\Aula 2\source\repos\testsigil\x64\Debug\testsigil.exe : fatal error LNK1120: 15 externos sin resolver
