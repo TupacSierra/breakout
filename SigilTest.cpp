@@ -17,7 +17,7 @@ int main()
 			 
 		slSetBackColor(0, 0, 0);
 
-		slSetForeColor(1, 1, 1, 1);
+		slSetForeColor(1, 0, 1, 1);
 		slRectangleFill(width * 0.5, height * 0.05, 130, 15);
 
 		slRender();
